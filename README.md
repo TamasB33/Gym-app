@@ -11,10 +11,7 @@ Technologies that were used to create this website:REACT
 
 **React Packages**
 
--Styled Components
--React-Router-Dom
--EmailJs
--Framer-Motion
+*Styled Components,React-Router-Dom,EmailJs,Framer-Motion*
 
 
 
